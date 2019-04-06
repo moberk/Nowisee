@@ -63,8 +63,8 @@ $(document).ready(function($) {
     $(".background--particles").particleground({
         density: 15000,
         lineWidth: 0.2,
-        lineColor: "#515151",
-        dotColor: "#313131",
+        lineColor: "#fdd318",
+        dotColor: "#306bc3",
         parallax: false,
         proximity: 200
     });

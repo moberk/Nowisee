@@ -434,6 +434,8 @@ B. Classes
 }
 #title-block-std{
     padding-top: 5rem;
+    padding-bottom: 0px;
+    
 }
 
 .block .block__title h2 {
@@ -2400,6 +2402,7 @@ D. Utilities
 .skew-up-right {
     position: relative;
     background-color: #306bc3;
+    
 }
 
 .skew-up-right:before {
